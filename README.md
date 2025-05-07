@@ -1,4 +1,4 @@
-# 🩺 Disease Prediction & Medical Recommendation System
+# 🩺 Health Budyy
 
 A smart health assistant that predicts diseases from symptoms and recommends medications, diets, and workouts — all powered by Machine Learning!
 
@@ -31,7 +31,7 @@ Built using **Python**, **Flask**, and **Scikit-learn**, the system is easy to d
  ┣ 📄 workout_df.csv          → Exercise plans per disease
 
 📁 model
- ┗ 📄 RandomForest.pkl        → Trained model for prediction
+ ┗ 📄 Model.pkl        → Trained model for prediction
 
 📁 templates
  ┗ 📄 index.html              → Front-end UI for the web app
@@ -41,4 +41,4 @@ Built using **Python**, **Flask**, and **Scikit-learn**, the system is easy to d
  ┗ 📄 img.png                 → UI asset
 
 📄 main.py                    → Flask app (entry point)
-📄 disease_prediction_system.ipynb → ML model training and evaluation
+📄 Health_buddy.ipynb → ML model training and evaluation
